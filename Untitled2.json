@@ -1,0 +1,14 @@
+{
+    "data":
+    {
+        "login":true, //true,||false||fail
+        "usuario":
+        {
+            "id":1,
+            "username":"GMayoral",
+            "nombre":"Gilberto",
+            "apellidos":"Mayoral",
+            "email":"gilberto.mayoral13@hotmail.com"
+        }
+    }
+}
